@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Robin Genz
+Copyright (c) 2025 [Robin Genz](https://github.com/capawesome-team/capacitor-plugins/blob/main/packages/android-edge-to-edge-support)
 
 Copyright (c) 2025 Yehor Kashperskyi
 
